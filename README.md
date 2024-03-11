@@ -10,3 +10,6 @@ sound_detect.py would detect sounds at the set threshold
 sound_detect2.py detects and record throughout the test/exam
 
 face_obj.py would detect the face, face landmarks and objects in the background
+
+
+check_app2.py checks for any background app opened
